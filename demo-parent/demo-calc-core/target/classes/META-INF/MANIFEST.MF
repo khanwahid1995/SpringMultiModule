@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: wahid
+Build-Jdk: 11.0.3
+Implementation-Title: demo-calc-core
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.wahid
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demo-parent/demo-calc-core
+Created-By: Maven Integration for Eclipse
+

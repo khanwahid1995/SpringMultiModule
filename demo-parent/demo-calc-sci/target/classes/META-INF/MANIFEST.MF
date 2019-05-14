@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: wahid
+Build-Jdk: 11.0.3
+Implementation-Title: demo-calc-sci
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.wahid
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demo-parent/demo-calc-sci
+Created-By: Maven Integration for Eclipse
+
